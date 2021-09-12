@@ -1,1 +1,6 @@
 # testFork
+
+nama:
+alamat:
+sekolah:
+
