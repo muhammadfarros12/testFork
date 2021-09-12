@@ -1,6 +1,6 @@
 # testFork
 
-nama:  
-alamat:  
-sekolah:
+nama: Muhammad Farroos  
+alamat: Batam  
+sekolah: PPIT Imam Syafii 
 
